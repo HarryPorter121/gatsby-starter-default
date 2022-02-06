@@ -16,7 +16,7 @@ const UsingDSG = () => (
       </a>
       .
     </p>
-    <Link to="/">Go back to the homepage</Link>
+    <Link to="/">Go back to the page which is homepage</Link>
   </Layout>
 )
 
